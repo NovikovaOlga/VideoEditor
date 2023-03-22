@@ -6,7 +6,7 @@
 <p> An application that will help you learn popular design patterns at the initial level. </p>
 
 <p>
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/VideoEditor/blob/main/HW_2_13/screens/Demo.mov">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/VideoEditor/blob/main/HW_2_13/screens/Demo1.gif">
  
  <p>
 
