@@ -10,10 +10,7 @@
 https://user-images.githubusercontent.com/52373055/227120322-6298cce7-9132-4c89-979b-e133da344b1b.mov
 
 
-<p>
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/VideoEditor/blob/main/HW_2_13/screens/Demo1.gif">
- 
- <p>
+
 
 ## 🛠️ Technologies
  - **UIKit**
