@@ -1,6 +1,6 @@
 # Video editor
 
-## Video editor for applying effects.
+## 🎞️ Video editor for applying effects.
 
 ## 🚀 Capabilities
 
