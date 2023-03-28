@@ -8,7 +8,6 @@
 
 <p>
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/VideoEditor/blob/main/screens/Demo.gif">
-
 <p>
 
 ## 🛠️ Main technologies
