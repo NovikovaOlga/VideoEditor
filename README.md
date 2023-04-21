@@ -8,13 +8,11 @@
 
 ## Capabilities
 
-<p>
  - Demonstration of the possibilities of working with videos:
     - combining several videos into one
     - music overlay 
     - the imposition of visual effects when gluing videos (transitions)
     - the ability to save the final video
-</p>
 
 <p>
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/VideoEditor/screen1.PNG">
