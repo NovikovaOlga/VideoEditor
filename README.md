@@ -18,4 +18,5 @@
  - **AVFoundation**
 
 ## Installing and launching 
-
+- **Download the project archive**
+- **Project startup file: .xcodeproj**
