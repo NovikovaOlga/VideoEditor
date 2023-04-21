@@ -21,8 +21,8 @@ There are two modes available in the application:
     - after shooting, the photo is saved in the phone's gallery
 
 <p>
- <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/VideoEditor/screen1.PNG">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/VideoEditor/Demo.gif">
+ <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/VideoEditor/screen1.PNG">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/VideoEditor/screen2.jpeg">
 </p>
 
