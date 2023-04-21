@@ -19,7 +19,7 @@
 <p>
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/VideoEditor/screen1.PNG">
  <img style="width: 180px;" src="https://github.com/NovikovaOlga/novikovaolga/blob/main/Other/VideoEditor/Demo.gif">
-<p>
+</p>
 
 ## Technologies
  - **AVFoundation**
