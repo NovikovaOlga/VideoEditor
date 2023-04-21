@@ -33,3 +33,5 @@ There are two modes available in the application:
 ## Installing and launching 
 - **Download the project archive**
 - **Project startup file: .xcodeproj**
+
+#### Requires running on a real device.
